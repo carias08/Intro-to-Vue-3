@@ -180,3 +180,12 @@ ul {
     width: 90%;
   }
 }
+
+input[type="radio"]{
+  width: 15px;
+  height: 15px;
+}
+
+.recommend {
+  font-size: 18px;
+}
